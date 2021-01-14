@@ -1,5 +1,3 @@
-# hello-world
-My first repository on GitHub.
 ![Image of elicorn](https://c0745.paas2.tx.modxcloud.com/assets/images/MIC21001-single-elicorn-green-840x140-a.png)
 
 <p><a href="https://slack.citusdata.com" rel="nofollow"><img src="https://camo.githubusercontent.com/02a19c775bbaf83cfd1f62a8ae110163cd48bda45bce19f64fdb51d54c09ff1a/687474703a2f2f736c61636b2e6369747573646174612e636f6d2f62616467652e737667" alt="Slack Status" data-canonical-src="http://slack.citusdata.com/badge.svg" style="max-width:100%;"></a>
