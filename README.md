@@ -21,6 +21,8 @@
 
 <p><strong>Citus is an open source extension to Postgres</strong> that distributes your data and your queries across multiple nodes. Because Citus is an extension to Postgres, and not a fork, Citus gives developers and enterprises a scale-out database while keeping the power and familiarity of a relational database. As an extension, Citus supports new PostgreSQL releases, and allows you to benefit from new features while maintaining compatibility with existing PostgreSQL tools.</p>&nbsp; 
 
+![Image of elicorn](https://c0745.paas2.tx.modxcloud.com/assets/images/MIC21001-single-elicorn-green-840x140-a.png)
+
 
 &nbsp; &nbsp;
 ...&nbsp;&nbsp; 
