@@ -1,4 +1,4 @@
-![Image of elicorn](https://c0745.paas2.tx.modxcloud.com/assets/images/MIC21005-readme-topper-citus-elicorn-1502x275.png)
+![Image of elicorn](https://c0745.paas2.tx.modxcloud.com/assets/images/MIC21006-readme-topper-citus-elicorn-1502x275.png)
 
 <p><a href="https://slack.citusdata.com" rel="nofollow"><img src="https://camo.githubusercontent.com/02a19c775bbaf83cfd1f62a8ae110163cd48bda45bce19f64fdb51d54c09ff1a/687474703a2f2f736c61636b2e6369747573646174612e636f6d2f62616467652e737667" alt="Slack Status" data-canonical-src="http://slack.citusdata.com/badge.svg" style="max-width:100%;"></a>
 <a href="https://docs.citusdata.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/2c81072c289d1a3fbdb088380d6269c02d4e2493afe02fe64fcff355882aded7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6c61746573742d627269676874677265656e2e737667" alt="Latest Docs" data-canonical-src="https://img.shields.io/badge/docs-latest-brightgreen.svg" style="max-width:100%;"></a>
